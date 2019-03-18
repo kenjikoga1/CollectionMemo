@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  CollectionMemo
+//  CustomTable
 //
-//  Created by 古賀賢司 on 2019/03/16.
+//  Created by 古賀賢司 on 2019/03/17.
 //  Copyright © 2019 古賀賢司. All rights reserved.
 //
 
